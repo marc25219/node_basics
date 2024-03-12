@@ -1,3 +1,9 @@
+/*
+ * Author: Marc Ciruelos Santos
+ * Date: 11-03-2024
+ * Description: Example of fileSystem module. Asynchronous using Promises example.
+ */
+
 // In case "/promises" not exists:
 // const fs = require("node:fs");
 // const { promisify } = require('node:util')

@@ -1,4 +1,9 @@
-// OS (System) Module
+/*
+ * Author: Marc Ciruelos Santos
+ * Date: 11-03-2024
+ * Description: Example of PATH module
+ */
+
 const path = require("node:path");
 
 // Slash system

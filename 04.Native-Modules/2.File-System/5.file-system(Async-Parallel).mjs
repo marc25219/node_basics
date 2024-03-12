@@ -1,4 +1,9 @@
-// File System Module
+/*
+ * Author: Marc Ciruelos Santos
+ * Date: 11-03-2024
+ * Description: Example of fileSystem module. Asynchronous using Promises.all example.
+ */
+
 import { readFile } from "node:fs/promises";
 
 // Asynchronous

@@ -1,4 +1,9 @@
-// ES-Module export module (new mode): addition function
+/*
+ * Author: Marc Ciruelos Santos
+ * Date: 11-03-2024
+ * Description: Export module using ES-Modules (new mode).
+ */
+
 export function addition(a, b) {
     return a + b;
 }

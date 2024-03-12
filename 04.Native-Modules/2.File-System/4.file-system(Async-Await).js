@@ -1,4 +1,9 @@
-// File System Module
+/*
+ * Author: Marc Ciruelos Santos
+ * Date: 11-03-2024
+ * Description: Example of fileSystem module. Asynchronous using Async/Await example.
+ */
+
 const fs = require("node:fs/promises");
 
 // IIFE = Inmediatly Invoked Function Expression

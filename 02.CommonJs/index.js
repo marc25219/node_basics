@@ -1,4 +1,9 @@
-// CommonJs require module (old mode): import addition function
-const { addition } = require("./addition")
+/*
+ * Author: Marc Ciruelos Santos
+ * Date: 11-03-2024
+ * Description: Import module using require (old mode - Common JS).
+ */
 
-console.log(addition(2,5))
+const { addition } = require("./addition");
+
+console.log(addition(2, 5));

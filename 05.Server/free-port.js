@@ -1,3 +1,9 @@
+/*
+ * Author: Marc Ciruelos Santos
+ * Date: 11-03-2024
+ * Description: Example of function to find an available port and export
+ */
+
 const net = require('node:net')
 
 function findAvailablePort (desiredPort) {

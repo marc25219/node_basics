@@ -1,3 +1,9 @@
+/*
+ * Author: Marc Ciruelos Santos
+ * Date: 11-03-2024
+ * Description: Example of the process function
+ */
+
 // Array of the input arguments
 console.log(process.argv)
 

@@ -1,4 +1,9 @@
-// ls application
+/*
+ * Author: Marc Ciruelos Santos
+ * Date: 11-03-2024
+ * Description: Example of aplication to read files and show some detailes. Picocolors module is used.
+ */
+
 const fs = require("node:fs/promises");
 const path = require("node:path");
 const pc = require('picocolors')
